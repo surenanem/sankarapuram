@@ -32,9 +32,6 @@ export default function Pricing() {
             💬 WhatsApp Now
           </a>
         </div>
-        <p className="mt-6 text-sm text-sky-300">
-          Serious inquiries only · Mon–Sat, 9 AM–7 PM
-        </p>
       </div>
     </section>
   )
