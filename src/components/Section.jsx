@@ -4,7 +4,7 @@ export default function Section({ id, eyebrow, title, children, tone = 'light' }
     <section id={id} className={`${bg} scroll-mt-20`}>
       <div className="mx-auto max-w-6xl px-6 py-16">
         {eyebrow && (
-          <p className="text-sm font-semibold uppercase tracking-widest text-emerald-700">
+          <p className="text-sm font-semibold uppercase tracking-widest text-sky-700">
             {eyebrow}
           </p>
         )}

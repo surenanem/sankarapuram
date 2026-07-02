@@ -13,7 +13,7 @@ export default function InfoGrid({ items, icon }) {
               {item.detail && <p className="text-sm text-slate-500">{item.detail}</p>}
             </div>
           </div>
-          <span className="whitespace-nowrap rounded-full bg-emerald-50 px-3 py-1 text-sm font-semibold text-emerald-700">
+          <span className="whitespace-nowrap rounded-full bg-sky-50 px-3 py-1 text-sm font-semibold text-sky-700">
             {item.time}
           </span>
         </li>

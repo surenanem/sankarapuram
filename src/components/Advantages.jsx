@@ -10,7 +10,7 @@ export default function Advantages() {
             key={a}
             className="flex items-start gap-3 rounded-xl bg-white p-4 shadow-sm ring-1 ring-slate-100"
           >
-            <span className="mt-0.5 text-emerald-600">✅</span>
+            <span className="mt-0.5 text-sky-600">✅</span>
             <span className="text-slate-700">{a}</span>
           </li>
         ))}
