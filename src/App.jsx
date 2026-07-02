@@ -1,6 +1,7 @@
 import Nav from './components/Nav'
 import Hero from './components/Hero'
 import Overview from './components/Overview'
+import LifeStages from './components/LifeStages'
 import Advantages from './components/Advantages'
 import Neighborhood from './components/Neighborhood'
 import Legal from './components/Legal'
@@ -15,6 +16,7 @@ export default function App() {
       <Nav />
       <Hero />
       <Overview />
+      <LifeStages />
       <Advantages />
       <Neighborhood />
       <Legal />
