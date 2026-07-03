@@ -5,6 +5,7 @@ const links = [
   { href: '#highlights', label: 'Highlights' },
   { href: '#legal', label: 'Legal' },
   { href: '#ideal-for', label: 'Ideal For' },
+  { href: '#gallery', label: 'Gallery' },
   { href: '#contact', label: 'Contact' },
 ]
 

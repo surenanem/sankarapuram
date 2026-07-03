@@ -7,6 +7,7 @@ import Neighborhood from './components/Neighborhood'
 import Legal from './components/Legal'
 import IdealFor from './components/IdealFor'
 import Pricing from './components/Pricing'
+import Gallery from './components/Gallery'
 import Footer from './components/Footer'
 import StickyContact from './components/StickyContact'
 
@@ -22,6 +23,7 @@ export default function App() {
       <Legal />
       <IdealFor />
       <Pricing />
+      <Gallery />
       <Footer />
       <StickyContact />
       <div className="h-16 md:hidden" />

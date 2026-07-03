@@ -88,6 +88,25 @@ export const legal = [
   { label: 'Verification', value: "All original documents available for in-person verification by serious buyers and their legal counsel" },
 ]
 
+export const galleryImages = [
+  '20260702_140301.jpg',
+  '20260702_140307.jpg',
+  '20260702_140332.jpg',
+  '20260702_140355.jpg',
+  '20260702_140403.jpg',
+  '20260702_140424.jpg',
+  '20260702_140451.jpg',
+  '20260702_140456.jpg',
+  '20260702_140505.jpg',
+  '20260702_140520.jpg',
+  '20260702_140608.jpg',
+  '20260702_140630.jpg',
+  '20260702_140632.jpg',
+  '20260702_140805.jpg',
+  '20260702_140816.jpg',
+  'map.jpg',
+]
+
 export const idealFor = [
   { title: 'Builders & Developers', text: 'Corner plot with 63-ft frontage, dual road access, and parks on both sides. Suitable for G+3 / G+4 apartment or villa project.' },
   { title: 'IT Professionals', text: 'Build your dream home 10 minutes from work.' },
