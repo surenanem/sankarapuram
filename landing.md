@@ -4,6 +4,15 @@
 
 Rare opportunity to own a premium corner plot in the heart of Shankarapuram, Sithalapakkam — one of Chennai South's fastest appreciating residential pockets. This east-facing corner plot offers exceptional frontage, dual road access, and the unique advantage of parks on both sides, making it one of the most sought-after plots in the locality.
 
+## Legal & Documentation — 100% Clean
+
+- ✅ **Layout:** MMDA Approved — Metropolitan Development Authority sanction (strongest Chennai approval category)
+- ✅ **Patta:** Updated and current in owner's name
+- ✅ **Encumbrance:** Nil encumbrance certified from 1970 to 2026 — 56 years of clean title
+- ✅ **Bank:** Previously financed by a leading private sector bank — fully discharged with NOC in hand
+- ✅ **Registration:** Registered at Sub-Registrar Office, Chennai South zone
+- ✅ All original documents available for in-person verification by serious buyers and their legal counsel
+
 ## Plot Details
 
 - **Plot Number:** 108, Shankarapuram
@@ -38,17 +47,6 @@ Sithalapakkam sits at the heart of Chennai's largest IT corridor — a rare adva
 - 🖥️ Mahindra World City — 20 mins via GST Road
 - 🖥️ Full OMR IT Corridor — accessible within 10–25 mins
 
-### 🏥 World-Class Healthcare — Peace of Mind at Every Stage
-
-- 🏥 Gleneagles Global Hospital, Perumbakkam — 10 mins
-- 🏥 Velammal Medical College Hospital — 15 mins
-- 🏥 MIOT International Hospital, Manapakkam — 20 mins
-- 🏥 Fortis Malar Hospital, Adyar — 25 mins
-- 🏥 Apollo Hospitals, Greams Road — 30 mins
-- 🏥 Sri Ramachandra Medical Centre — 30 mins
-- 🏥 Tambaram Government Hospital — 10 mins
-- 🏥 Local clinic / daily outpatient care — walking distance
-
 ### 🏫 Top Schools & Colleges Nearby
 
 - Velammal Matric Higher Secondary School — 10 mins
@@ -72,15 +70,6 @@ Sithalapakkam sits at the heart of Chennai's largest IT corridor — a rare adva
 - 👨‍💻 **As a working professional today** — 10-minute commute to OMR and Sholinganallur IT parks. Zero traffic stress, more time with family.
 - 👨‍👩‍👧‍👦 **As a growing family** — top schools, hospitals, supermarkets, and parks all within walking distance or a short drive. Safe, established neighbourhood.
 - 🧓 **In retirement** — peaceful, park-facing corner plot with fresh air, open views, walkable streets, and world-class hospitals within 10 minutes.
-
-## Legal & Documentation — 100% Clean
-
-- ✅ **Layout:** MMDA Approved — Metropolitan Development Authority sanction (strongest Chennai approval category)
-- ✅ **Patta:** Updated and current in owner's name
-- ✅ **Encumbrance:** Nil encumbrance certified from 1970 to 2026 — 56 years of clean title
-- ✅ **Bank:** Previously financed by a leading private sector bank — fully discharged with NOC in hand
-- ✅ **Registration:** Registered at Sub-Registrar Office, Chennai South zone
-- ✅ All original documents available for in-person verification by serious buyers and their legal counsel
 
 ## Ideal For
 

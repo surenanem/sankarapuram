@@ -17,10 +17,10 @@ export default function App() {
       <Nav />
       <Hero />
       <Overview />
+      <Legal />
       <LifeStages />
       <Advantages />
       <Neighborhood />
-      <Legal />
       <IdealFor />
       <Pricing />
       <Gallery />

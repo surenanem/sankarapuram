@@ -32,17 +32,6 @@ export const itHub = [
   { name: 'Full OMR IT Corridor', time: '10–25 mins', detail: 'Entire stretch accessible' },
 ]
 
-export const hospitals = [
-  { name: 'Gleneagles Global Hospital, Perumbakkam', time: '10 mins' },
-  { name: 'Velammal Medical College Hospital', time: '15 mins' },
-  { name: 'MIOT International Hospital, Manapakkam', time: '20 mins' },
-  { name: 'Fortis Malar Hospital, Adyar', time: '25 mins' },
-  { name: 'Apollo Hospitals, Greams Road', time: '30 mins' },
-  { name: 'Sri Ramachandra Medical Centre', time: '30 mins' },
-  { name: 'Tambaram Government Hospital', time: '10 mins' },
-  { name: 'Local clinic / daily outpatient care', time: 'Walking distance' },
-]
-
 export const schools = [
   { name: 'Velammal Matric Higher Secondary School', time: '10 mins' },
   { name: 'DAV Boys Senior Secondary School', time: '15 mins' },
